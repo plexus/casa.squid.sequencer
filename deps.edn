@@ -1,0 +1,4 @@
+{:deps {
+        ;; casa.squid/jack {}
+        ;; casa.squid/midi {}
+        }}
